@@ -31,4 +31,4 @@ I am **Michael Erezi**, the lead developer and architect behind the **EmeraldIco
 ---
 
 ### 🔗 Connect with the Creator
-[LinkedIn](YOUR_LINKEDIN_URL) | [Portfolio Site (Coming Soon)](#) | [Twitter/X](YOUR_X_URL)
+[LinkedIn](https://www.linkedin.com/in/michaelerezi/) | [Portfolio Site (https://emeraldempire.io/)](#) | [Twitter/X](https://x.com/EmeraldIcon_)
